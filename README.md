@@ -1,2 +1,2 @@
-# Word-Count-Lab
-Word Count Lab for Andela Fellow Cohort X Bootcamp
+# Word-Count-Program
+Word Count Programming exercise
